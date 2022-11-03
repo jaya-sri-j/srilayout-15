@@ -1,0 +1,250 @@
+.header .wrapper
+{
+width:80%;
+margin:auto;
+
+}
+.header
+{
+	 background-color:white;
+	 height:94px;
+	
+}
+.header .header-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-between;
+}
+.header .header-fc .header-left
+{
+	 background-color:white;
+	 height:44px;
+	 width:183px; 
+	 color:black;
+	 margin-top:20px;
+}
+.header .header-fc .header-right
+{
+	 background-color:blue;
+	 height:44px;
+	 width:306px; 
+	 margin-top:20px;
+}
+.updates
+{
+ background-color:silver;
+ height:500px;
+ color:silver;
+ 
+ 
+}
+.updates .updates-fc
+{
+ flex-direction:row;
+ flex-wrap:wrap;
+ display:flex;
+ align-items:center;
+ justify-content:space-evenly;
+ margin-top:100px;
+}
+.updates .updates-fc .text
+{
+ width:100%;
+ text-align:center;
+}
+.updates .updates-fc .xA
+{
+ width:617px;
+ height:60px;
+ margin-top:210px;
+ background-color:white;
+}
+.updates .updates-fc .xB
+{
+ width:169px;
+ height:60px;
+ margin-top:200px;
+ background-color:green;
+}
+.contact  
+{
+ background-color:white;
+ height:390px;
+ color:silver;
+ 
+}
+.contact .contact-fc
+{
+ display:flex;
+ flex-direction:row;
+ justify-content:space-evenly;
+ margin-top:100px;
+ 
+}
+.contact .contact-fc .xA
+{
+ width:370px;
+ height:205px;
+ background-color:black;
+ padding-right:5px;
+ margin:5px;
+ text-align:center;
+ 
+}
+.contact .contact-fc .xB
+{
+ width:370px;
+ height:205px;
+ background-color:black;
+ margin:5px;
+ text-align:center;
+ 
+}
+.contact .contact-fc .xC
+{
+ width:370px;
+ height:205px;
+ background-color:black;
+ margin:5px;
+ text-align:center;
+ border-bottom:5px;
+ 
+}
+.portfolio
+{
+ background-color:white;
+ height:1000px;
+ color:white;
+}
+.portfolio .portfolio-fc
+{
+ justify-content:center;
+ flex-wrap:wrap;
+ display:flex;
+ flex-direction:row;
+ margin-top:50px;
+}
+.portfolio .portfolio-fc .xA
+{
+ width:600px;
+ height:300px;
+ background-color:grey;
+ 
+}
+.portfolio .portfolio-fc .xB
+{
+ width:600px;
+ height:300px;
+ background-color:silver;
+}
+.portfolio .portfolio-fc .xC
+{
+ width:600px;
+ height:300px;
+ background-color:silver;
+}
+.portfolio .portfolio-fc .xD
+{
+ width:600px;
+ height:300px;
+ background-color:grey; 
+}
+.portfolio .portfolio-fc .xE
+{
+ width:600px;
+ height:300px;
+ background-color:grey; 
+}
+.portfolio .portfolio-fc .xF
+{
+ width:600px;
+ height:300px;
+ background-color:silver; 
+}
+.con1  
+{
+ background-color:white;
+ height:390px;
+ color:silver;
+ 
+}
+.con1 .con1-fc
+{
+ display:flex;
+ flex-direction:row;
+ justify-content:space-evenly;
+ margin-top:100px;
+ 
+}
+.con1 .con1-fc .xd
+{
+ width:370px;
+ height:205px;
+ background-color:black;
+ padding-right:5px;
+ margin:5px;
+ text-align:center;
+ 
+}
+.con1 .con1-fc .xe
+{
+ width:370px;
+ height:205px;
+ background-color:black;
+ margin:5px;
+ text-align:center;
+ 
+}
+.con1 .con1-fc .xf
+{
+ width:370px;
+ height:205px;
+ background-color:black;
+ margin:5px;
+ text-align:center;
+ border-bottom:5px;
+ 
+}
+.updates1
+{
+ background-color:silver;
+ height:300px;
+ color:silver;
+ 
+ 
+}
+.updates1 .updates1-fc
+{
+ flex-direction:row;
+ flex-wrap:wrap;
+ display:flex;
+ align-items:center;
+ justify-content:space-evenly;
+ margin-top:100px;
+}
+.updates1 .updates1-fc .text
+{
+ width:100%;
+ text-align:center;
+}
+.updates1 .updates1-fc .xc
+{
+ width:617px;
+ height:60px;
+ margin-top:210px;
+ background-color:white;
+}
+.updates1 .updates1-fc .xd
+{
+ width:169px;
+ height:60px;
+ margin-top:200px;
+ background-color:green;
+}
+.hen
+{
+	height:90px;
+	background-color:blue;
+	width:1263px;
+}
